@@ -1,0 +1,35 @@
+.service{
+  height: 100px;
+  width: 200px;
+  transition: 0.7s;
+}
+
+.service:hover{
+  background-color: #000 !important;
+  color:white;
+}
+
+.card-title{
+  text-decoration: none;
+}
+
+
+/* css for carousel */
+
+ .carousel-item {
+   width:100%;
+   height:auto;
+   padding-top:50px;
+  
+   
+ }
+ .car-image{
+   margin-left:40px;
+ }
+
+ .carousel-item img{
+   height:200px;
+   width:200px;
+   
+  
+ }
